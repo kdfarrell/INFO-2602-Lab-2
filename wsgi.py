@@ -127,4 +127,3 @@ def add_todo_category_command(username, todo_id, category):
     return
 
   print('Category added!')
-
